@@ -1,6 +1,6 @@
 task1
  
-![task1.1](https://replit.com/@ArtiemSkorik/java-0-ewingelen#Solution/task1.1.png)
+![task1.1](https://github.com/ppc-ntu-khpi/java-0-vladdicckk/blob/master/Solution/task1.1.png?raw=true)
 
 В сноске:  
-![task1.2](https://replit.com/@ArtiemSkorik/java-0-ewingelen#Solution/task1.2.png)
+![task1.2](https://github.com/ppc-ntu-khpi/java-0-vladdicckk/blob/master/Solution/task1.2.png?raw=true)
